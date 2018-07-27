@@ -1,4 +1,5 @@
 /*css sciences  */
+
 #cardd {
   margin-left: 25%;
 }
@@ -9,6 +10,208 @@
 
 #Q1 {
   display: none;
+  padding-bottom: 3%;
+  height: 700px;
+}
+
+#Q2 {
+  display: none;
+  padding-top: 2%;
+}
+
+#Q3 {
+  display: none;
+  padding-top: 2%;
+}
+#Q4{
+  padding-top: 2%;
+}
+
+#Q5 {
+  display: none;
+  padding-top: 2%;
+}
+
+#Q6 {
+  display: none;
+}
+
+#h1 {
+  text-align: center;
+  font-size: 80px;
+
+}
+#H1{
+  padding-top: 3%;
+}
+#exx{
+  margin-top: 2%;
+}
+#exx2{
+  margin-top: 4%;
+}
+#exx3{
+  margin-top: 2%;
+}
+#exx4{
+  margin-right: 3%;
+  margin-top: 2%;
+}
+#jumbo{
+  background-image: url('../images/sciences/magni2.jpeg');
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 10%;
+}
+
+#body {
+  background-color: #e9ecef
+}
+
+/* .card {
+  background-color: #ec7063
+} */
+
+button {
+  color: #ec7063
+}
+
+#h2 {
+  text-align: center;
+}
+
+/* css start */
+
+.heading {
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url("../images/arts/artimage2.jpeg");
+  padding-top: 10%;
+}
+
+.page1 {
+  background-image: url("../images");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  background-color: #E9ECEF;
+}
+
+}
+
+input {
+  margin-top: 100px;
+  border-color: #0CA4AA;
+  border-style: groove;
+  border-width: thin;
+  background: linear-gradient(#17C3CA, #E389B3);
+}
+
+.cap {
+  font-size: 30px;
+  color: #ec7063;
+}
+
+#rowq1 {
+  margin-top: 5%;
+}
+
+.first {
+  margin-top: 50px;
+}
+
+.adm {
+  margin-left: 170px;
+}
+
+.paint {
+  margin-left: 140px;
+}
+
+.friends {
+  margin-left: 100px;
+}
+
+.draw {
+  margin-left: 130px;
+}
+
+.text {
+  font-size: 30px;
+  font-family: cursive;
+}
+
+.finally {
+  background-color: #e9ecef;
+  border-style: groove;
+  border-color: grey;
+}
+
+.one:hover {
+  border-color: #F8082D;
+  border-style: groove;
+  border-width: thick;
+}
+
+.you {
+  font-family: cursive;
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+.finally {
+  margin-top: 70px;
+  font-family: Coronetscript, cursive;
+  color: black;
+}
+
+.mad {
+  margin-left: 455px;
+}
+
+.art {
+  float: left;
+}
+
+.artr {
+  margin-top: 60px;
+  color: #FFCCFC;
+}
+
+.dep {
+  float: right;
+}
+
+.dam {
+  margin-left: 495px;
+}
+
+.depr {
+  margin-top: 60px;
+  color: #FFCCFC;
+  float: right;
+}
+
+.thanks {
+  font-size: 40px;
+}
+
+.es {
+  font-size: 35px;
+}
+
+#cardd {
+  margin-left: 25%;
+}
+
+#row1 {
+  margin-top: 5%;
 }
 
 #Q2 {
@@ -31,176 +234,11 @@
   display: none;
 }
 
-#h1 {
-  text-align: center;
-  font-size: 80px;
-}
-
-.jumbotron {
-  background-image: url('../images/sciences/jumbotron.jpg');
-  height: 290px;
-}
-
-#body {
-  background-color: #e9ecef
-}
-
-.card {
-  background-color: #ec7063
-}
-
-button {
-  color: #ec7063
-}
-
-#h2 {
-  text-align: center;
-}
- /* css start */
-.heading{
-  height: 400px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-image: url("../images/arts/artimage2.jpeg");
-  padding-top: 10%;
-
-}
-.page1{
-background-image: url("../images");
-background-repeat:no-repeat;
-background-size: cover;
-}
-
-
-body{
-  background-color: #E9ECEF;
-}
-
-}
-input{
-  margin-top: 100px;
-  border-color: #0CA4AA;
-  border-style: groove;
-  border-width: thin;
-  background: linear-gradient(#17C3CA, #E389B3
- );
-}
-.cap{
-  font-size: 30px;
-  color: #ec7063;
-}
-#rowq1{
-  margin-top: 5%;
-}
-
-.first{
-  margin-top: 50px;
-}
-
-.adm{
-  margin-left: 170px;
-}
-
-.paint{
-  margin-left: 140px;
-
-}
-
-.friends{
-  margin-left: 100px;
-
-}
-.draw{
-  margin-left: 130px;
-
-}
-
-.text{
-  font-size: 30px;
-  font-family: cursive;
-}
-
-.finally{
-  background-color: #e9ecef;
-  border-style: groove;
-  border-color: grey;
-}
-.one:hover{
-  border-color: #F8082D;
-  border-style: groove;
-  border-width:thick;
-}
-.you{
-  font-family: cursive;
-  font-size: 30px;
-
-  margin-top: 50px;
-}
-
-.finally{
-  margin-top: 70px;
-  font-family: Coronetscript, cursive;
-  color: black;
-}
-
-.mad{
-margin-left: 455px;
-}
-
-.art{
-  float: left;
-}
-.artr{
-  margin-top: 60px;
-  color: #FFCCFC;
-}
-.dep{
-  float: right;
-}
-.dam{
-  margin-left: 495px;
-}
-.depr{
-  margin-top: 60px;
-  color: #FFCCFC;
-  float: right;
-}
-.thanks{
-  font-size: 40px;
-}
-.es{
-  font-size: 35px;
-}
-
-#cardd{
-  margin-left:  25%;
-}
-#row1{
-  margin-top:5%;
-}
-
-#Q2{
-display: none;
-}
-#Q3{
-display: none;
-}
-
-
-#Q4{
-display: none;
-}
-#Q5{
-  display: none
-}
-#Q6{
-  display: none;
-}
 /* end of arts css */
+
 /* engineering css */
 
-.engineering{
+.engineering {
   background-image: url("../images/engineering/diego-ph-249471-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -209,20 +247,20 @@ display: none;
   padding-top: 5%;
 }
 
-.indoor{
+.indoor {
   float: right;
 }
 
-.workspace{
-background-color: #e9ecef;
+.workspace {
+  background-color: #e9ecef;
 }
 
-.txt{
+.txt {
   justify-content: center;
   margin: 30px;
 }
 
-.clickableimg{
+.clickableimg {
   margin: 30px;
   height: 400px;
   width: 500px;
@@ -230,24 +268,24 @@ background-color: #e9ecef;
   text-align: center;
 }
 
-.clickableimg:hover{
+.clickableimg:hover {
   color: blue;
   opacity: 0.7;
   text-decoration: underline;
   transform: scale(1.09);
 }
 
-#factory-office{
+#factory-office {
   background-color: #e9e9ecef;
   display: none;
 }
 
-.fieldwork{
+.fieldwork {
   display: none;
   background-color: #e9e9ecef;
 }
 
-#head1{
+#head1 {
   padding-top: 30px;
   margin-left: 30px;
   font-family: 'Waiting for the Sunrise', cursive;
@@ -255,38 +293,42 @@ background-color: #e9ecef;
   font-size: 30px;
   font-weight: bold;
 }
-.word{
+
+.word {
   font-size: 30px;
 }
-.title{
+
+.title {
   font-family: 'Waiting for the Sunrise', cursive;
   text-align: center;
   color: #ec7063;
 }
-.dope{
+
+.dope {
   font-family: 'Waiting for the Sunrise', cursive;
   text-align: center;
   color: #ec7063;
 }
-#head2{
+
+#head2 {
   padding-top: 30px;
   margin-left: 34%;
   color: #ec7063;
   font-size: 30px;
-
 }
-#head4{
+
+#head4 {
   padding-top: 30px;
   margin-left: 15%;
   color: #ec7063;
   font-size: 30px;
 }
 
-#head3{
+#head3 {
   padding-top: 30px;
 }
 
-.answer{
+.answer {
   background-color: #e9e9ecef;
   display: none;
   padding: 40px;
@@ -306,18 +348,20 @@ background-color: #e9ecef;
 
 .navbar a {
   float: left;
-
   display: block;
   color: grey;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-.navtext{
+
+.navtext {
   font-size: 35px;
+
 }
-
-
+#navtext1{
+  margin-left: 7.5%;
+}
 .navbar a:hover {
   text-decoration: none;
   background-size: cover;
@@ -337,11 +381,11 @@ h1 {
   background-size: 100%;
   background-image: url("../images/landingpage/c22.jpeg");
 }
-#logo{
+
+#logo {
   height: 50px;
   width: 50px;
 }
-
 
 .active {
   font-family: 'Orbitron', sans-serif;
@@ -354,11 +398,9 @@ h1 {
 }
 
 p {
+  font-family: 'Waiting for the Sunrise', cursive;
   text-align: center;
-  color: #6E8C6D;
-  font-family: 'Loved by the King', cursive;
   font-size: 30px;
-  margin-top: 7%;
 }
 
 #cont2 {
@@ -373,14 +415,19 @@ h2 {
   font-size: 25px;
 }
 
-
 .eh {
   font-family: 'Waiting for the Sunrise', cursive;
   text-align: center;
   font-size: 30px;
   color: white;
 }
+.ehe{
+  font-family: 'Waiting for the Sunrise', cursive;
+  text-align: center;
+  font-size: 30px;
+  color: #ec7063;
 
+}
 #cont3 {
   height: 550px;
   padding-top: 9%;
@@ -445,22 +492,24 @@ h3 {
 #cont5 {
   padding-top: 5%;
   height: 700px;
-
+  background-color: #e9ecef;
 }
-#row2{
+
+#row2 {
   margin-top: 2%;
-padding-left: 35%;
-
+  padding-left: 35%;
 }
-.ul2{
+
+.ul2 {
   padding-left: 30%;
 }
-.ul2 a {
-text-decoration: none;
-color: black;
 
+.ul2 a {
+  text-decoration: none;
+  color: black;
 }
-.ul2 a:hover{
+
+.ul2 a:hover {
   color: blue;
 }
 
@@ -472,9 +521,7 @@ p {
   margin-left: 9%;
 }
 
-
-
- #body1 {
+#body1 {
   background-color: #e9ecef;
 }
 
@@ -503,9 +550,7 @@ p {
 li {
   font-family: 'Abel', sans-serif;
   font-size: 20px;
-
 }
-
 
 h3 {
   font-family: 'Waiting for the Sunrise', cursive;
@@ -513,9 +558,10 @@ h3 {
 
 .card-body {
   background-color: #ec7063;
-  height:100px;
+  height: 100px;
 }
-.card-img-top{
+
+.card-img-top {
   height: 170px;
 }
 
@@ -559,56 +605,66 @@ h6 {
   text-align: center;
   padding-top: 30px;
 }
-#cont12{
-  background-color:#e9ecef;
-  text-align: center;
-  padding-top: 2%;
 
+#cont12 {
+  background-color: white;
+  text-align: center;
+  padding-top: 4%;
+  height: 200px;
+  margin-bottom: 0;
 }
-#cont13{
-height: 100px;
-padding-top: 2%;
-background-color: black;
+
+#cont13 {
+  height: 100px;
+  padding-top: 2%;
+  background-color: black;
 }
-.eh2{
+
+.eh2 {
   color: white;
 }
-#col9{
+
+#col9 {
   margin-bottom: 2%;
 }
-#col10{
+
+#col10 {
   margin-top: 2%;
 }
 
 /* end of landingpage css */
+
 /* business css */
-.ttc{
+
+.ttc {
   color: black;
 }
-.ttc:hover{
+
+.ttc:hover {
   color: black;
 }
-#bizna{
+
+#bizna {
   background-color: #ec7063;
   background-repeat: no-repeat;
   background-position: center;
   height: 150px;
-
-
   text-align: center;
   padding-top: 20px;
-
 }
-#cwi{
+
+#cwi {
   background-color: #393939;
   height: 100px;
   text-align: center;
   padding-top: 30px;
 }
-.cwi{
+
+.cwi {
   font-size: 30px;
 }
-#descript{
+
+#descript {
   height: 400px;
   background-position: center;
   background-repeat: no-repeat;
@@ -617,24 +673,30 @@ background-color: black;
   background-image: url("../images/business/bizz2.jpeg");
   padding-top: 17%;
 }
-#business{
-  background-color:#e9ecef;
+
+#business {
+  background-color: #e9ecef;
 }
-#quest{
+
+#quest {
   display: none;
-  background-color:#e9ecef ;
+  background-color: #e9ecef;
 }
-#somo{
+
+#somo {
   display: none;
 }
-#somo2{
+
+#somo2 {
   text-align: center;
 }
-#q1{
+
+#q1 {
   padding-top: 10%;
   text-align: center;
   padding-right: 4.5%;
 }
+
 #q2 {
   display: none;
   padding-top: 7%;
@@ -642,68 +704,82 @@ background-color: black;
   padding-right: 10%;
   padding-bottom: 4%;
 }
-#q3{
+
+#q3 {
   display: none;
   padding-top: 7%;
   text-align: center;
   padding-bottom: 4%;
   padding-left: 2%;
 }
-#q4{
+
+#q4 {
   display: none;
   padding-top: 7%;
   text-align: center;
   padding-bottom: 4%;
-
 }
-#q5{
+
+#q5 {
   display: none;
   padding-top: 7%;
   text-align: center;
   padding-bottom: 4%;
+}
 
-}
-#a1{
+#a1 {
   background-color: #ec7063;
 }
-#a2{
-  background-color: #ec7063;
-}
-#b1{
-  background-color: #ec7063;
-}
-#b2{
-  background-color: #ec7063;
-}
-#b3{
-  background-color: #ec7063;
-}
-#b4{
-  background-color: #ec7063;
-}
-#c1{
-  background-color: #ec7063;
-}
-#c2{
-  background-color: #ec7063;
-}
-#problem{
-  background-color: #ec7063;
 
-}
-#manage{
+#a2 {
   background-color: #ec7063;
 }
-#math{
+
+#b1 {
   background-color: #ec7063;
 }
-#lingo{
+
+#b2 {
   background-color: #ec7063;
 }
-.one{
+
+#b3 {
+  background-color: #ec7063;
+}
+
+#b4 {
+  background-color: #ec7063;
+}
+
+#c1 {
+  background-color: #ec7063;
+}
+
+#c2 {
+  background-color: #ec7063;
+}
+
+#problem {
+  background-color: #ec7063;
+}
+
+#manage {
+  background-color: #ec7063;
+}
+
+#math {
+  background-color: #ec7063;
+}
+
+#lingo {
+  background-color: #ec7063;
+}
+
+.one {
   height: 150px;
   width: 100%;
 }
-#somo2{
+
+#somo2 {
   padding-top: 5%;
 }
